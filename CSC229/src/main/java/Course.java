@@ -4,7 +4,6 @@
  * @author (Christopher Canenguez)
  * @version (9.7.2021)
  */
-
 public class Course
 {
     // Properties for objects of type Course.
@@ -130,5 +129,4 @@ public class Course
         System.out.println(course2.toString());
         
     }
-    
  }
